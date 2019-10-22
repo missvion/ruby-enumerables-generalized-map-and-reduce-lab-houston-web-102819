@@ -3,7 +3,10 @@
 def map(array)
   new = []
   index = 0
+  while index < array.length
   
+end
+end
 
 
 
