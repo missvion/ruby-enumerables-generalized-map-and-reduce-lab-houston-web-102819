@@ -9,9 +9,3 @@ def map(array)
   end
   new
 end
-
-
-
-array.map do |innards|
-  innards * -1 
-end
