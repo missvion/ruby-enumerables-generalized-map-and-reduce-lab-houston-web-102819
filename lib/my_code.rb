@@ -1,6 +1,9 @@
 # Your Code Here
 
-def my_own_map
+def map(array)
+  new = []
+  index = 0
+  
 
 
 
