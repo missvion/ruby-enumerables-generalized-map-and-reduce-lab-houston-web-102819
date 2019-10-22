@@ -4,7 +4,7 @@ def map(array)
   new = []
   index = 0
   while index < array.length
-  
+    yield(array[index])
   
   end
 
