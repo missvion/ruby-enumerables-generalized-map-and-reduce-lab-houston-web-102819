@@ -5,7 +5,9 @@ def map(array)
   index = 0
   while index < array.length
   
-end
+  
+  end
+
 end
 
 
